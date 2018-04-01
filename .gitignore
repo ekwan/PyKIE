@@ -1,0 +1,6 @@
+.DS_Store
+~*.xlsx
+Data_Processing/.ipynb_checkpoints
+Data_Processing/tutorial_data/.ipynb_checkpoints
+Data_Processing/notebooks/.ipynb_checkpoints
+Data_Acquisition/DEPT/response/.ipynb_checkpoints

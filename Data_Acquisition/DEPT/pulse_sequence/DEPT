@@ -1,0 +1,16 @@
+"@(#)DEPT 17.1 04/01/03 Copyright (c) 1991-2000 Agilent Technologies All Rights Reserved."
+"*********************************************************"
+" DEPT - cpsetup macro for a dept spectrum 		  "
+
+/*
+-- Attributes for parlib/DEPT.par --
+P_LOCK  : array bs d1 dm dmm nt mult bipflg qphase qtip
+apptype : hetero1D
+modules : hetero1D presat wet gradient Och_adiabatic Dch_adiabatic bip
+wrtp    : 
+setup   : 
+*/
+
+"*********************************************************"
+
+cpsetup($0)
